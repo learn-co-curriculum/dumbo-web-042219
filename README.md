@@ -5,6 +5,10 @@
 
 All source code can be found under [this repo](https://github.com/learn-co-students/dumbo-web-042219/).
 
-| **Module** | **Topic**                  | **Video**                              | **Code**                         |
-| ---------- | -------------------------- | -------------------------------------  | ----------------------------     |
-| 1          | Hashketball Review         |                |         |
+| **Topic**                  | **Video**                              | **Code**                         |
+| -------------------------- | -------------------------------------  | ----------------------------     |
+| Hashketball Review         | [Video][hashketball-vid]               | [Code][hashketball-code]         |
+
+
+[hashketball-vid]: http://youtu.be/z1QM8u5SdDw
+[hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
