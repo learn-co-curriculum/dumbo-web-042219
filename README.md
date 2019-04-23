@@ -8,7 +8,11 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | **Topic**                  | **Video**                              | **Code**                         |
 | -------------------------- | -------------------------------------  | ----------------------------     |
 | Hashketball Review         | [Video][hashketball-vid]               | [Code][hashketball-code]         |
+| Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-video] |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
+
+[hashes-internet-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[hashes-internet-video]: http://youtu.be/ivpBQkmqQ7w
