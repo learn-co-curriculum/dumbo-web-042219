@@ -15,4 +15,4 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
 
 [hashes-internet-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-[hashes-internet-video]: http://youtu.be/ivpBQkmqQ7w
+[hashes-internet-video]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/02-hashes-internet
