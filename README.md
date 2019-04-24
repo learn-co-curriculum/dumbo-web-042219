@@ -18,5 +18,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 [hashes-internet-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/02-hashes-internet
 [hashes-internet-video]: https://youtu.be/ivpBQkmqQ7w
 
-[intro-object-oriented-programming-code]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[intro-object-oriented-programming-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/03-OO
 [intro-object-oriented-programming-video]: http://youtu.be/1DM49yz9uIw
