@@ -5,6 +5,8 @@
 
 All source code can be found under [this repo](https://github.com/learn-co-students/dumbo-web-042219/).
 
+If anything is missing, ping your lead on slack, but check out [this repo](https://github.com/learn-co-curriculum/dumbo-web-040119/) of code and videos from the last cohort.
+
 | **Topic**                  | **Video**                              | **Code**                         |
 | -------------------------- | -------------------------------------  | ----------------------------     |
 | Hashketball Review         | [Video][hashketball-vid]               | [Code][hashketball-code]         |
