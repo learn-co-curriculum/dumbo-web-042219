@@ -13,6 +13,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-video] |
 | Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
 | Object Relationships — One to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
+| Object Relationships — Many to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
@@ -26,3 +27,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [object-relationships-one-many-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/04-one-to-many/
 [object-relationships-one-many-video]: http://youtu.be/hBFW3VPhsd8
+
+[object-relationships-many-many-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/05-many-to-many/
+[object-relationships-many-many-video]: http://youtu.be/w6dCFxw2BEk
