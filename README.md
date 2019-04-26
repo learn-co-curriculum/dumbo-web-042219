@@ -13,7 +13,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-video] |
 | Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
 | Object Relationships — One to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
-| Object Relationships — Many to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
+| Object Relationships — Many to Many | [Code][object-relationships-many-many-code] | [Video][object-relationships-many-many-video] |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
