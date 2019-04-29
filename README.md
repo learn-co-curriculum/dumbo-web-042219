@@ -14,6 +14,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
 | Object Relationships — One to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
 | Object Relationships — Many to Many | [Code][object-relationships-many-many-code] | [Video][object-relationships-many-many-video] |
+| Inheritance | [Code][inheritance-code] | [Video][inheritance-video] |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
@@ -30,3 +31,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [object-relationships-many-many-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/05-many-to-many/
 [object-relationships-many-many-video]: http://youtu.be/w6dCFxw2BEk
+
+[inheritance-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/06-inheritance/
+[inheritance-video]: http://youtu.be/4ub319IsCAQ
