@@ -15,6 +15,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Object Relationships — One to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
 | Object Relationships — Many to Many | [Code][object-relationships-many-many-code] | [Video][object-relationships-many-many-video] |
 | Inheritance | [Code][inheritance-code] | [Video][inheritance-video] |
+| SQL Review | [Code][sql-review-code] | [Video][sql-review-video] |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
@@ -34,3 +35,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [inheritance-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/06-inheritance/
 [inheritance-video]: http://youtu.be/4ub319IsCAQ
+
+[sql-review-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/07-sql-review/
+[sql-review-video]: http://youtu.be/ekySk63uLHs
