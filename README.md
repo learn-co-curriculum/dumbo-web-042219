@@ -16,6 +16,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Object Relationships — Many to Many | [Code][object-relationships-many-many-code] | [Video][object-relationships-many-many-video] |
 | Inheritance | [Code][inheritance-code] | [Video][inheritance-video] |
 | SQL Review | [Code][sql-review-code] | [Video][sql-review-video] |
+| Intro to ActiveRecord | [Code][intro-activerecord-code] | [Video][intro-activerecord-video] |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
@@ -38,3 +39,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [sql-review-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/07-sql-review/
 [sql-review-video]: http://youtu.be/ekySk63uLHs
+
+[intro-activerecord-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/08-active-record-intro/
+[intro-activerecord-video]: http://youtu.be/So8b6-Zti8A
