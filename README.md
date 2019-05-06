@@ -17,6 +17,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Inheritance | [Code][inheritance-code] | [Video][inheritance-video] |
 | SQL Review | [Code][sql-review-code] | [Video][sql-review-video] |
 | Intro to ActiveRecord | [Code][intro-activerecord-code] | [Video][intro-activerecord-video] |
+| ActiveRecord Associations | [Code][activerecord-associations-code] | [Video][activerecord-associations-video] |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
@@ -42,3 +43,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [intro-activerecord-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/08-active-record-intro/
 [intro-activerecord-video]: http://youtu.be/So8b6-Zti8A
+
+[activerecord-associations-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/09-ar-associations/
+[activerecord-associations-video]: http://youtu.be/uf2JlDoSJnQ
