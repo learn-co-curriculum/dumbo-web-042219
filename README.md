@@ -19,7 +19,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Intro to ActiveRecord | [Code][intro-activerecord-code] | [Video][intro-activerecord-video] |
 | ActiveRecord Associations | [Code][activerecord-associations-code] | [Video][activerecord-associations-video] |
 | Intro to the Internet & Sinatra | [Code][internet-sinatra-code] | [1][internet-sinatra-video1] [2][internet-sinatra-video2] |
-| Sinatra + MVC | [Code][sinatra-mvc-code] | [Video][activerecord-associations-video] |
+| Sinatra + MVC | [Code][sinatra-mvc-code] | [Video][sinatra-mvc-video] |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
