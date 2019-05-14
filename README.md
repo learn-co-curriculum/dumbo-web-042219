@@ -46,3 +46,10 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [activerecord-associations-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/09-ar-associations/
 [activerecord-associations-video]: http://youtu.be/uf2JlDoSJnQ
+
+[internet-sinatra-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/09-intro-sinatra-internet
+[internet-sinatra-video1]: https://youtu.be/wZ81Iqvs2Yc
+[internet-sinatra-video2]: https://youtu.be/OT_bNoWAoQw
+
+[sinatra-mvc-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/10-sinatra-mvc
+[sinatra-mvc-video]: https://youtu.be/k_fP3hFyWIQ
