@@ -7,7 +7,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 If anything is missing, ping your lead on slack, but check out [this repo](https://github.com/learn-co-curriculum/dumbo-web-040119/) of code and videos from the last cohort.
 
-| **Topic**                  | **Video**                              | **Code**                         |
+| **Topic**                  | **Code**                               | **Video**                        |
 | -------------------------- | -------------------------------------  | ----------------------------     |
 | Hashketball Review         | [Video][hashketball-vid]               | [Code][hashketball-code]         |
 | Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-video] |
