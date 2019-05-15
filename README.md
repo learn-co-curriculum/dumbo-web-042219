@@ -20,6 +20,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | ActiveRecord Associations | [Code][activerecord-associations-code] | [Video][activerecord-associations-video] |
 | Intro to the Internet & Sinatra | [Code][internet-sinatra-code] | [1][internet-sinatra-video1] [2][internet-sinatra-video2] |
 | Sinatra + MVC | [Code][sinatra-mvc-code] | [Video][sinatra-mvc-video] |
+| Sinatra + REST | [Code][sinatra-rest-code] | [Video][sinatra-rest-video] |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
@@ -55,3 +56,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [sinatra-mvc-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/10-sinatra-mvc
 [sinatra-mvc-video]: https://youtu.be/k_fP3hFyWIQ
+
+[sinatra-rest-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/11-sinatra-rest/students
+[sinatra-rest-video]: https://youtu.be/nP-JFqe8SLg
