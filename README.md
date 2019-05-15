@@ -21,6 +21,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Intro to the Internet & Sinatra | [Code][internet-sinatra-code] | [1][internet-sinatra-video1] [2][internet-sinatra-video2] |
 | Sinatra + MVC | [Code][sinatra-mvc-code] | [Video][sinatra-mvc-video] |
 | Sinatra + REST | [Code][sinatra-rest-code] | [Video][sinatra-rest-video] |
+| Sinatra + CRUD | [Code][sinatra-crud-code] | [1][sinatra-crud-video1] [2][sinatra-crud-video2] |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
@@ -59,3 +60,9 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [sinatra-rest-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/11-sinatra-rest/students
 [sinatra-rest-video]: https://youtu.be/nP-JFqe8SLg
+
+[sinatra-crud-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/11-sinatra-rest/students
+[sinatra-crud-video1]: https://youtu.be/ZlXd-1by1MA
+[sinatra-crud-video2]: https://youtu.be/wrRP2Pa0lCE
+
+
