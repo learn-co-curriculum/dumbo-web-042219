@@ -9,7 +9,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 | **Topic**                  | **Code**                               | **Video**                        |
 | -------------------------- | -------------------------------------  | ----------------------------     |
-| Hashketball Review         | [Video][hashketball-vid]               | [Code][hashketball-code]         |
+| Hashketball Review         | [Code][hashketball-code]                | [Video][hashketball-vid]        |
 | Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-video] |
 | Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
 | Object Relationships — One to Many | [Code][object-relationships-one-many-code] | [Video][object-relationships-one-many-video] |
