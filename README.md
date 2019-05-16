@@ -67,5 +67,5 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 [sinatra-crud-video2]: https://youtu.be/wrRP2Pa0lCE
 
 [sinatra-rel-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/12-sinatra-relationships/students
-[sinatra-rel-video1]: https://youtu.be/LdcqIZvGU5Y
+[sinatra-rel-video]: https://youtu.be/LdcqIZvGU5Y
 
