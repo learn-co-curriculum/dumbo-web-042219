@@ -23,6 +23,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Sinatra + REST             | [Code][sinatra-rest-code]              | [Video][sinatra-rest-video]      |
 | Sinatra + CRUD             | [Code][sinatra-crud-code]              | [1][sinatra-crud-video1] [2][sinatra-crud-video2] |
 | Sinatra Relationships      | [Code][sinatra-rel-code]               | [Video][sinatra-rel-video]       |
+| Intro to Rails             | [Code][intro-rails-code]               | [Video][intro-rails-video]       |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
@@ -68,4 +69,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [sinatra-rel-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/12-sinatra-relationships/students
 [sinatra-rel-video]: https://youtu.be/LdcqIZvGU5Y
+
+[intro-rails-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/13-intro-to-rails
+[intro-rails-video]:  https://youtu.be/Z16cCZF7pho
 
