@@ -74,10 +74,10 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 [intro-rails-video]:  https://youtu.be/Z16cCZF7pho
 
 [rails-rest-forms-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/14-rails-rest-forms
-[rails-rest-forms-video]:  https://youtu.be/Z16cCZF7pho
+[rails-rest-forms-video]:  https://youtu.be/euNdlTiMiXU
 
 [rails-validations-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/15-rails-validations
-[rails-validations-video]:  https://youtu.be/Z16cCZF7pho
+[rails-validations-video]:  https://youtu.be/5O93vc8QRCc
 
 [rails-rel-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/16-rails-associations
 [rails-rel-video]:  https://youtu.be/dKSQGCkH3xg
