@@ -24,6 +24,9 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Sinatra + CRUD             | [Code][sinatra-crud-code]              | [1][sinatra-crud-video1] [2][sinatra-crud-video2] |
 | Sinatra Relationships      | [Code][sinatra-rel-code]               | [Video][sinatra-rel-video]       |
 | Intro to Rails             | [Code][intro-rails-code]               | [Video][intro-rails-video]       |
+| Rails + REST + Forms       | [Code][rails-rest-forms-code]          | [Video][rails-rest-forms-video]  |
+| Rails Validations          | [Code][rails-validations-code]         | [Video][rails-validations-video] |
+| Rails Relationships        | [Code][rails-rel-code]                 | [Video][rails-rel-video]         |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
