@@ -27,6 +27,8 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Rails + REST + Forms       | [Code][rails-rest-forms-code]          | [Video][rails-rest-forms-video]  |
 | Rails Validations          | [Code][rails-validations-code]         | [Video][rails-validations-video] |
 | Rails Relationships        | [Code][rails-rel-code]                 | [Video][rails-rel-video]         |
+| Cookies + Sessions         | [Code][rails-validations-code]         | [Video][rails-validations-video] |
+| Auth                       | [Code][authenticaion-code]             | [Video][authenticaion-video]     |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
@@ -84,4 +86,10 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [rails-rel-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/16-rails-associations
 [rails-rel-video]:  https://youtu.be/dKSQGCkH3xg
+
+[cookie-session-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/17-sessions-cookies
+[cookie-session-video]:  https://youtu.be/iVyH6Wbj-o8
+
+[authenticaion-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/18-auth
+[authenticaion-video]:  https://youtu.be/XkaWfi5JfGk
 
