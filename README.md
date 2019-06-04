@@ -32,7 +32,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Intro to CSS                    | [Code][css-code]                  | [Video][css-video]                               |
 | JS Fundamentals                 | [Notes][js-notes]                 |                                                  |
 | Functional Programming in JS    | [Code][fp-code]                   | [Part 1][fp-video-1] - [Part 2][fp-video-2]      |
-| JS Events                       | [Code][events-code]               | [Part 1][events-video 1] - [Part 2][events-video-2] |
+| JS Events                       | [Code][events-code]               | [Part 1][events-video-1] - [Part 2][events-video-2] |
 
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
