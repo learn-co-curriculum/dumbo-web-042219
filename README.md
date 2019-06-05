@@ -33,7 +33,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | JS Fundamentals                 | [Notes][js-notes]                 |                                                  |
 | Functional Programming in JS    | [Code][fp-code]                   | [Part 1][fp-video-1] - [Part 2][fp-video-2]      |
 | JS Events                       | [Code][events-code]               | [Part 1][events-video-1] - [Part 2][events-video-2] |
-
+| Promises, AJAX, and Async       | [Code][promise-code]              | [Video][promise-video]                           |
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
