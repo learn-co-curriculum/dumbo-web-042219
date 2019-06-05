@@ -34,6 +34,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Functional Programming in JS    | [Code][fp-code]                   | [Part 1][fp-video-1] - [Part 2][fp-video-2]      |
 | JS Events                       | [Code][events-code]               | [Part 1][events-video-1] - [Part 2][events-video-2] |
 | Promises, AJAX, and Async       | [Code][promise-code]              | [Video][promise-video]                           |
+| Crud with Fetch                 | [Code][fetch-code]                | [Part 1][fetch-video-1] - [Part 2][fetch-video-2]|
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
@@ -112,3 +113,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [promise-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/23-ajax-fetch-intro
 [promise-video]: https://youtu.be/7XnJUm14g7Y
+
+[fetch-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/24-full-crud-ajax
+[fetch-video-1]: https://youtu.be/g3-wB_QvRIA
+[fetch-video-2]: https://youtu.be/P0FrQWXxZ2g
