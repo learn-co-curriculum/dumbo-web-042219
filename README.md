@@ -109,3 +109,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 [events-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/22-events
 [events-video-1]: https://youtu.be/ZsCFKjs2-FA
 [events-video-2]: https://youtu.be/fNLXuoOLj_Q
+
+[promise-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/23-ajax-fetch-intro
+[promise-video]: https://youtu.be/7XnJUm14g7Y
