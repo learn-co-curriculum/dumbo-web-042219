@@ -117,3 +117,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 [fetch-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/24-full-crud-ajax
 [fetch-video-1]: https://youtu.be/g3-wB_QvRIA
 [fetch-video-2]: https://youtu.be/P0FrQWXxZ2g
+
+[js-review]-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/25-js-review
+[js-review-video]: https://youtu.be/do0OMv_fh2w
