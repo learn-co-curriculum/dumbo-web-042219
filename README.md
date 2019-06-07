@@ -35,6 +35,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | JS Events                       | [Code][events-code]               | [Part 1][events-video-1] - [Part 2][events-video-2] |
 | Promises, AJAX, and Async       | [Code][promise-code]              | [Video][promise-video]                           |
 | Crud with Fetch                 | [Code][fetch-code]                | [Part 1][fetch-video-1] - [Part 2][fetch-video-2]|
+| JS Review                       | [Code][js-review-code]            | [Video][js-review-code]                          |
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
@@ -118,5 +119,5 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 [fetch-video-1]: https://youtu.be/g3-wB_QvRIA
 [fetch-video-2]: https://youtu.be/P0FrQWXxZ2g
 
-[js-review]-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/25-js-review
+[js-review-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/25-js-review
 [js-review-video]: https://youtu.be/do0OMv_fh2w
