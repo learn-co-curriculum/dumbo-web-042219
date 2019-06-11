@@ -37,6 +37,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Crud with Fetch                 | [Code][fetch-code]                | [Part 1][fetch-video-1] - [Part 2][fetch-video-2]|
 | JS Review                       | [Code][js-review-code]            | [Video][js-review-code]                          |
 | JS Bug Squashing | [Code][js-bug-squashing-code] | [Video][js-bug-squashing-video] |
+| Review | [Code][review-code] | [Video][review-video] |
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
@@ -125,3 +126,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [js-bug-squashing-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/27-debugging-workshop/
 [js-bug-squashing-video]: http://youtu.be/LHQyLkPFhcA
+
+[review-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/28-quotes-review/
+[review-video]: http://youtu.be/M-2FPghlzbU
