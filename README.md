@@ -38,6 +38,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | JS Review                       | [Code][js-review-code]            | [Video][js-review-code]                          |
 | JS Bug Squashing | [Code][js-bug-squashing-code] | [Video][js-bug-squashing-video] |
 | Review | [Code][review-code] | [Video][review-video] |
+| Rails API | [Code][rails-api-code] | [Video][rails-api-video] |
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
@@ -129,3 +130,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [review-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/28-quotes-review/
 [review-video]: http://youtu.be/M-2FPghlzbU
+
+[rails-api-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/29-rails-api/
+[rails-api-video]: http://youtu.be/JZdS_lq61dk
