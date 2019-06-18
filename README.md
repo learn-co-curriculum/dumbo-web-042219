@@ -40,6 +40,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Review | [Code][review-code] | [Video][review-video] |
 | Rails API | [Code][rails-api-code] | [Video][rails-api-video] |
 | this, bind, call, apply | [Code][this-bind-call-apply-code] | [Video][this-bind-call-apply-video] |
+| oojs | [Code][oojs-code] | [Video][oojs-video] |
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
@@ -137,3 +138,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [this-bind-call-apply-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/30-oojs/
 [this-bind-call-apply-video]: http://youtu.be/h5nVMmOFWEc
+
+[oojs-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/30-oojs/
+[oojs-video]: http://youtu.be/D7NBUw3OvCg
