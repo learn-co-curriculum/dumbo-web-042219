@@ -42,6 +42,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | this, bind, call, apply | [Code][this-bind-call-apply-code] | [Video][this-bind-call-apply-video] |
 | oojs | [Code][oojs-code] | [Video][oojs-video] |
 | ES6 and Beyond | [Code][es6-beyond-code] | [Video][es6-beyond-video] |
+| ES6 II | [Code][es6-ii-code] | [Video][es6-ii-video] |
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
@@ -145,3 +146,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [es6-beyond-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/32-es6/
 [es6-beyond-video]: http://youtu.be/u9G94zOdug4
+
+[es6-ii-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/32-es6/
+[es6-ii-video]: http://youtu.be/kBd0WAWvayA
