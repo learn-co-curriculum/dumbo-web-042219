@@ -43,6 +43,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | oojs | [Code][oojs-code] | [Video][oojs-video] |
 | ES6 and Beyond | [Code][es6-beyond-code] | [Video][es6-beyond-video] |
 | ES6 II | [Code][es6-ii-code] | [Video][es6-ii-video] |
+| Experimental Websockets Workshop | [Code][experimental-websockets-workshop-code] | [Video][experimental-websockets-workshop-video] |
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
@@ -149,3 +150,6 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [es6-ii-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/32-es6/
 [es6-ii-video]: http://youtu.be/kBd0WAWvayA
+
+[experimental-websockets-workshop-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/33-websockets-intro/
+[experimental-websockets-workshop-video]: http://youtu.be/sBjkTk_U89A
