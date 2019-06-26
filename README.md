@@ -44,6 +44,9 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | ES6 and Beyond | [Code][es6-beyond-code] | [Video][es6-beyond-video] |
 | ES6 II | [Code][es6-ii-code] | [Video][es6-ii-video] |
 | Experimental Websockets Workshop | [Code][experimental-websockets-workshop-code] | [Video][experimental-websockets-workshop-video] |
+| React Intro | [Code][react-intro-code] | [Video][react-intro-video] |
+| React Intro Practice | [Code][react-intro-practice-code] | |
+| React State & Events | [Code][react-state-events-code] | [Video][react-state-events-video] |
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
@@ -108,7 +111,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 [authenticaion-video]:  https://youtu.be/XkaWfi5JfGk
 
 [css-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/19-css-fundamentals
-[css-video]: https://youtu.be/jiCGpdYAGrk 
+[css-video]: https://youtu.be/jiCGpdYAGrk
 
 [js-notes]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/20-js-fundamentals
 
@@ -153,3 +156,11 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [experimental-websockets-workshop-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/33-websockets-intro/
 [experimental-websockets-workshop-video]: http://youtu.be/sBjkTk_U89A
+
+[react-intro-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/34-react-intro
+[react-intro-video]: https://www.youtube.com/watch?v=6wRvqW8XdRM
+
+[react-intro-practice-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/35-practice-react-intro
+
+[react-state-events-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/36-react-state-events
+[react-state-events-video]: https://www.youtube.com/watch?v=MsyRMjDnoRE
