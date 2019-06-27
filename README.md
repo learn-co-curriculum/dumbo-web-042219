@@ -47,6 +47,8 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | React Intro | [Code][react-intro-code] | [Video][react-intro-video] |
 | React Intro Practice | [Code][react-intro-practice-code] | |
 | React State & Events | [Code][react-state-events-code] | [Video][react-state-events-video] |
+| Controlled Forms & Lifting State | [Code][react-forms-code] | [Video][react-forms-video] |
+| Component Lifecycle | [Code][react-lifecycle-code] | [Video][react-lifecycle-video] |
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
