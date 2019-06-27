@@ -164,3 +164,9 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [react-state-events-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/36-react-state-events
 [react-state-events-video]: https://www.youtube.com/watch?v=MsyRMjDnoRE
+
+[react-forms-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/37-react-controlled-forms-lifting-state
+[react-forms-video]: https://youtu.be/S7WAmmeQyqo
+
+[react-lifecycle-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/38-component-lifecycle
+[react-lifecycle-video]: https://youtu.be/LIIfTwG5SwA
