@@ -172,3 +172,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 [react-lifecycle-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/38-component-lifecycle
 [react-lifecycle-video]: https://youtu.be/LIIfTwG5SwA
+
+[react-auth-cod]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/39-auth
+[react-auth-vid]: https://youtu.be/U520FPUZfLM
+[react-auth-vid2]: https://youtu.be/LqH7_sx3-sQ
