@@ -181,5 +181,5 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 
 
 [react-router-cod]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/40-react-router
-[react-router-vid]: #
+[react-router-vid]: https://youtu.be/93YNyH2E_3A
 
