@@ -183,3 +183,11 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 [react-router-cod]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/40-react-router
 [react-router-vid]: https://youtu.be/93YNyH2E_3A
 
+
+[redux-cod]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/41-redux-intro
+[redux-vid]: https://youtu.be/91AzlxYsSw4
+
+
+[react-redux-cod]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/42-react-redux
+[react-redux-vid]: https://youtu.be/z9AgR_kw5K4
+
