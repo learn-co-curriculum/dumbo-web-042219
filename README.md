@@ -51,6 +51,8 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | Component Lifecycle | [Code][react-lifecycle-code] | [Video][react-lifecycle-video] |
 | React Auth (JWT) | [Code][react-auth-cod] | [Part 1][react-auth-vid] - [Part 2][react-auth-vid2] |
 | React Router | [Code][react-router-cod] | [Video][react-router-vid] |
+| Redux | [Code][redux-cod] | [Video][redux-vid] |
+| React + Redux | [Code][react-redux-cod] | [Video][react-redux-vid] |
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
