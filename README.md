@@ -53,6 +53,7 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 | React Router | [Code][react-router-cod] | [Video][react-router-vid] |
 | Redux | [Code][redux-cod] | [Video][redux-vid] |
 | React + Redux | [Code][react-redux-cod] | [Video][react-redux-vid] |
+| Advanced React + Redux | [Code][advanced-react-redux-cod] | [Video][advanced-react-redux-vid] |
 
 [hashketball-vid]: http://youtu.be/z1QM8u5SdDw
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/01-hashketball-review
@@ -193,3 +194,8 @@ If anything is missing, ping your lead on slack, but check out [this repo](https
 [react-redux-cod]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/42-react-redux
 [react-redux-vid]: https://youtu.be/z9AgR_kw5K4
 
+[react-redux-cod]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/42-react-redux
+[react-redux-vid]: https://youtu.be/z9AgR_kw5K4
+
+[advanced-react-redux-cod]: https://github.com/learn-co-students/dumbo-web-042219/tree/master/44-advanced-redux-react
+[advanced-react-redux-vid]: https://youtu.be/YCzTxGxfJ3s
